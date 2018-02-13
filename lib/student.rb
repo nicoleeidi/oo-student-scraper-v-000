@@ -31,7 +31,7 @@ class Student
     #   @bio= bio
     # end
     self
-    binding.pry 
+    binding.pry
   end
 
   def self.all
